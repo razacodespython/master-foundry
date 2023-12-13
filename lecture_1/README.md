@@ -1,13 +1,39 @@
-## Foundry
+# Lecture 1: Getting Started with Foundry 🚀
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+Video:
+Full Article:
+Example Contract Address: 0x998608B4f83249c4217ADb9060Fb739d4A52C6A2
+Verified Contract Link: https://sepolia.scrollscan.dev/address/0x998608B4f83249c4217ADb9060Fb739d4A52C6A2
 
-Foundry consists of:
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+### Key Topics:
+
+1. **Installation** 🔧
+   - Instructions on setting up Foundry and configuring the environment.
+
+2. **Creating a Project** 📁
+   - Guidelines on initiating and organizing a new Foundry project.
+
+3. **Compiling Contracts** 📝
+   - Tips for writing and compiling smart contracts in Foundry.
+
+4. **Local Testnet Anvil** 🌐
+   - Introduction to Anvil for local Ethereum testing and contract deployment.
+
+5. **Deploying with Scripts** 📜
+   - How to use Foundry scripts for smart contract deployment.
+
+6. **.env File Usage** 🔐
+   - Best practices for handling private keys and network details securely.
+
+7. **Deploying to Scroll Network** 🌍
+   - Steps for deploying contracts on the Scroll network.
+
+8. **Contract Verification** 🔍
+   - Techniques to verify contracts on blockchain explorers.
+
+9. **Interacting with Contracts** 🤝
+   - Strategies for engaging with smart contracts using Foundry tools.
 
 ## Documentation
 
