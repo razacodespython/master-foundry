@@ -3,7 +3,7 @@
 Video:\
 Full Article: https://www.razacodes.com/blog/foundry-intro \
 Example Contract Address: 0x998608B4f83249c4217ADb9060Fb739d4A52C6A2 \
-Verified Contract Link: https://sepolia.scrollscan.dev/address/0x998608B4f83249c4217ADb9060Fb739d4A52C6A2 \
+Verified Contract Link: https://sepolia.scrollscan.dev/address/0x998608B4f83249c4217ADb9060Fb739d4A52C6A2
 
 
 ### Key Topics:
